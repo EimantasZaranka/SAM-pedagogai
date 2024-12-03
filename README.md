@@ -1,6 +1,6 @@
 # Socialinių Medijų Analitika.
 
-(Duomenys paimti iš)[https://www.svis.smm.lt/pedagogai/]
+[Duomenys paimti iš](https://www.svis.smm.lt/pedagogai/)
 
 ## Darbo eiga
 
